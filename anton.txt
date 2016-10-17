@@ -1,1 +1,1 @@
-My name is Anton.
+My name is Anton. And I learn CVS Git.
